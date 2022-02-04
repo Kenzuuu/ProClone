@@ -1,8 +1,7 @@
-17 lines (13 sloc)  545 Bytes
 # Using Python Slim-Buster
 FROM vckyouuu/geezprojects:buster
 #━━━━━ Userbot Telegram ━━━━━
-#━━━━━ By KenzU-Userbot ━━━━━
+#━━━━━     By Kenzhu    ━━━━━
 
 RUN git clone -b Skyzuu-Userbot https://github.com/Kenzuuu/KenzU-UserBot /root/userbot
 RUN mkdir /root/userbot/.bin
